@@ -23,8 +23,8 @@ com o que foi pedido. Caso o repositório criado seja privado, deve-se adicionar
 mesmo possa avaliar a atividade.
 Arquivos entregues em anexo com o código (.zip, .tsx, .js, etc) não serão considerados. Aqueles que não
 entregarem o link do repositório ficarão com nota zero.
-Obs:
-• Esta atividade é individual.
-• O componente deve ser criado no local(pasta) correto, seguindo os padrões adotados na disciplina.
-• Certifique-se que a exclusão de tarefas continua funcionando após a inclusão do novo componente.
-• Nas máquinas do laboratório, recomenda-se criar o projeto dentro de Meus Documentos/DAM.
+Obs: <br>
+• Esta atividade é individual. <br>
+• O componente deve ser criado no local(pasta) correto, seguindo os padrões adotados na disciplina. <br>
+• Certifique-se que a exclusão de tarefas continua funcionando após a inclusão do novo componente. <br>
+• Nas máquinas do laboratório, recomenda-se criar o projeto dentro de Meus Documentos/DAM. <br>
